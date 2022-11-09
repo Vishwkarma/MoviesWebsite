@@ -19,41 +19,6 @@ Live demo (Feel free to visit) 👉 : https://gentle-brushlands-12352.herokuapp.
 * PlayList
   - Can Make private and public playlist
 
-## How To Use
-
-### Book a tour
-* Login or Signup to the site
-* Search for tours that you want to book
-* Book a tour
-* Proceed to the payment checkout page
-* Enter the card details:
-  
-  - Card No. : 4242 4242 4242 4242
-  - Expiry date: 02 / 22
-  - CVV: 222
-  
-* Finished!
-
-## API Documentation
-Link(https://documenter.getpostman.com/view/14039764/TWDfDDa9)
-
-## API Usage
-Before using the API, you need to set the variables in Postman depending on your environment (development or production). Simply add: 
-  
-  - {{URL}} with your hostname as value (Eg. http://127.0.0.1:3000 or http://www.example.com)
-  - {{password}} with your user password as value.
-  
-
-<b> API Features: </b>
-
-Tours List 👉 https://natours-uday.herokuapp.com/api/v1/tours
-
-Tours State 👉 https://natours-uday.herokuapp.com/api/v1/tours/tour-stats
-
-Get Top 5 Cheap Tours 👉https://natours-uday.herokuapp.com/api/v1/tours/top-5-cheap
-
-Get Tours Within Radius 👉https://natours-uday.herokuapp.com/api/v1/tours/tours-within/200/center/34.098453,-118.096327/unit/mi
-
 
 
 ## Deployment
@@ -87,18 +52,6 @@ heroku apps:rename natours-users
 * [Postman](https://www.getpostman.com/) - API testing
 * [Mailtrap](https://mailtrap.io/) & [Nodemailer](https://nodemailer.com/) - Email delivery platform
 * [Heroku](https://www.heroku.com/) - Cloud platform
-
-
-
-## To-do
-
-* Review and rating
-  - Allow user to add a review directly at the website after they have taken a tour
-* Booking
-  - Prevent duplicate bookings after user has booked that exact tour, implement favourite tours
-* Advanced authentication features
-  - Confirm user email, two-factor authentication, using email functionality properly
-* And More ! There's always room for improvement!
 
 
 ## Installation
