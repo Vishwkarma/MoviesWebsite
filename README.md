@@ -17,8 +17,22 @@ Live demo (Feel free to visit) 👉 : https://gentle-brushlands-12352.herokuapp.
 * User profile
   - Update Name, email, and password
 * PlayList
-  - Can Make private and public playlist
+  - Can Make private and public PlayList
 
+
+  ## Screenshots
+
+### Front
+![Front](https://github.com/Vishwkarma/MoviesWebsite/blob/main/ScreenShot/Front.png?raw=true)
+
+### Login
+![Login](https://github.com/Vishwkarma/MoviesWebsite/blob/main/ScreenShot/Signup.png?raw=true)
+
+### Home
+![Home](https://github.com/Vishwkarma/MoviesWebsite/blob/main/ScreenShot/Home.png?raw=true)
+
+### Search Results
+![Search Results](https://github.com/Vishwkarma/MoviesWebsite/blob/main/ScreenShot/Search.png?raw=true)
 
 
 ## Deployment
