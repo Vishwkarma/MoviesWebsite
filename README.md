@@ -1,15 +1,12 @@
 <h1 align="center">
-  <br>
-  <a href="https://natours-uday.herokuapp.com/"><img src="https://github.com/udaymittal7/natours/blob/master/public/img/logo-green-round.png" alt="Natours" width="200"></a>
-  <br>
-  Natours
+  Movie Website
   <br>
 </h1>
 
 <h4 align="center">An awesome tour booking site built on top of <a href="https://nodejs.org/en/" target="_blank">NodeJS</a>.</h4>
 
 ## Deployed Version
-Live demo (Feel free to visit) 👉 : https://natours-uday.herokuapp.com/
+Live demo (Feel free to visit) 👉 : https://gentle-brushlands-12352.herokuapp.com/
 
 
 ## Key Features
@@ -17,15 +14,10 @@ Live demo (Feel free to visit) 👉 : https://natours-uday.herokuapp.com/
 * Authentication and Authorization
   - Login and logout
   - Using JWT 
-  - Using best security practices like rate-limiter, xss-clean, helmat for headers, hpp for preventing parameter pollution and mongo-sanitize.
-* Tour
-  - Manage booking, check tours map, check users' reviews and rating
-  - Admin can add new tours
 * User profile
-  - Update username, photo, email, and password
-  - See all your bought tours at the same place
-* Credit card Payment
-  - Using stripe using webhooks to avoid adding tour without payment
+  - Update Name, email, and password
+* PlayList
+  - Can Make private and public playlist
 
 ## How To Use
 
